@@ -7,7 +7,6 @@ import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import java.awt.image.BufferedImage;
-import java.io.UnsupportedEncodingException;
 import java.util.Arrays;
 import java.util.Timer;
 import java.util.TimerTask;
